@@ -2,4 +2,7 @@
 Data Analysis course from [Computer Science Center](https://my.compscicenter.ru)
 
 **Tasks:**
-- [Work 1](https://my.compscicenter.ru/courses/2021-autumn/1.976-data-mining-python/) Hierarchical clustering
+- [Work 1](https://github.com/Feodoros/CSC-DataAnalysis/tree/main/Work%201) Cluster analysis
+  - Task 1 [Hierarchical clustering](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work%201/hierarchical_clustering.ipynb)   
+  - Task 2 [k-means]()
+  - Task 3 [DBSCAN]()
