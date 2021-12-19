@@ -9,3 +9,4 @@ Data Analysis course from [Computer Science Center](https://my.compscicenter.ru)
 - [Work 2](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work2/task.pdf) Testing statistical hypotheses
   - 1.1 [Nursing Home Data](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work2/statistical_hypotheses.ipynb)
   - 1.2 [Unions and State Labor Law](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work2/statistical_hypotheses.ipynb)
+- [Work 3](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work3/time_series.ipynb) Time Series Forecasting
