@@ -11,3 +11,7 @@ Data Analysis course from [Computer Science Center](https://my.compscicenter.ru)
   - 1.2 [Unions and State Labor Law](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work2/statistical_hypotheses.ipynb)
 - [Work 3](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work3/time_series.ipynb) Time Series Forecasting
 - [Work 4](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work4/knn.ipynb) KNN classification
+- [Work 5](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work5/classification_trees.ipynb) Classification
+  - 5.1 CART
+  - 5.2 Random forest
+  - 5.3 Gradient boosting
