@@ -15,3 +15,6 @@ Data Analysis course from [Computer Science Center](https://my.compscicenter.ru)
   - 5.1 CART
   - 5.2 Random forest
   - 5.3 Gradient boosting
+- [Work 6](https://github.com/Feodoros/CSC-DataAnalysis/blob/main/Work6/XGBoost.ipynb)
+  - XGBoost
+  - Calibration  
